@@ -1,0 +1,4 @@
+const RadioQuestion = {
+    question: '',
+    answerList: []
+}
